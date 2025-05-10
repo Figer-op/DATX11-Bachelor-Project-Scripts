@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f5dbbc800cd8044ba61610e2229bee, type: 3}
+  m_Name: RoomReplacementGrammar
+  m_EditorClassIdentifier: 
+  <Rules>k__BackingField:
+  - rule: {fileID: 11400000, guid: 0a17e86835c0dde47b8036d9eb3952d0, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 81e0ec85767cb194fa34797f5bc3dcaf, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 03f492b52e01455419b5b7c54dedeff3, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 3572803605d3065438ecf0c55c7f8cba, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 3c665665acba946469a57cc1bab63897, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 7c00ccf26f05dae4497a73063652e888, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: eb5df49ead8583441ad43c2d11226f39, type: 2}
+    weight: 1
+  - rule: {fileID: 11400000, guid: 570309a6423df96468e263efb2ba3fe6, type: 2}
+    weight: 10
+  - rule: {fileID: 11400000, guid: aa7390087768b89409c0f645d5f20833, type: 2}
+    weight: 10
